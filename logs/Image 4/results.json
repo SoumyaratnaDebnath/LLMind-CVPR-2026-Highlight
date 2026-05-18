@@ -1,0 +1,90 @@
+{
+  "questions": [
+    "How many boys sitting?",
+    "What are the people looking at?",
+    "What is standing on the right?",
+    "How many cows are there?",
+    "Are the people going to work?",
+    "Is the skateboarder doing a trick?",
+    "What is the man wearing black clothes doing?",
+    "Is it raining?",
+    "Is everyone standing?",
+    "Is the child pointing?"
+  ],
+  "gt_answers": [
+    [
+      "2",
+      "4",
+      "3"
+    ],
+    [
+      "skater",
+      "guy on skateboard",
+      "boy on skateboard",
+      "skateboarder"
+    ],
+    [
+      "light",
+      "street light",
+      "man",
+      "pole",
+      "light pole",
+      "light post",
+      "lamp"
+    ],
+    [
+      "0"
+    ],
+    [
+      "no"
+    ],
+    [
+      "no",
+      "yes"
+    ],
+    [
+      "holding skateboard",
+      "watching",
+      "standing",
+      "looking at skateboarder"
+    ],
+    [
+      "no",
+      "yes"
+    ],
+    [
+      "no",
+      "yes"
+    ],
+    [
+      "no",
+      "yes"
+    ]
+  ],
+  "llmind_answers": [
+    "2",
+    "trees",
+    "tree",
+    "0",
+    "yes",
+    "yes",
+    "standing",
+    "yes",
+    "yes",
+    "no"
+  ],
+  "llmind_accuracy": 0.7,
+  "uniform_answers": [
+    "2",
+    "sign",
+    "sign",
+    "0",
+    "yes",
+    "yes",
+    "jumping",
+    "no",
+    "no",
+    "no"
+  ],
+  "uniform_accuracy": 0.6
+}

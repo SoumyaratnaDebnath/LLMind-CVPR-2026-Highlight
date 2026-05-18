@@ -1,0 +1,234 @@
+{
+  "questions": [
+    "How many birds are there?",
+    "Are these animals wild?",
+    "Are the giraffes eating?",
+    "Are the giraffes male or female?",
+    "Is this a young or old animal?",
+    "Is this a man made exhibit?",
+    "Can these animals fly?",
+    "What is the animal?",
+    "What animal is in the picture?",
+    "What kind of animal is this?",
+    "Is one giraffes head out of view?",
+    "Is there water in this photo?",
+    "Are any of the giraffe's looking at the camera?",
+    "Does it have tusks?",
+    "What are these animals doing?",
+    "Are there two different types of animal?",
+    "Is this a zoo?",
+    "How many eyes do you see?",
+    "What kind of animals are in the dry grass?",
+    "What animal is this?",
+    "Is the giraffe carrying any passengers?",
+    "How many giraffe's are in the shot?",
+    "What two animals are photoshopped together?",
+    "Is the animal in an enclosure?",
+    "Animal, vegetable or mineral?",
+    "How many spots are visible on the animal?",
+    "How many spots on the giraffe are shown?",
+    "What design does the giraffe have?",
+    "Where is the giraffe looking?",
+    "Is the giraffe standing up?"
+  ],
+  "gt_answers": [
+    [
+      "0"
+    ],
+    [
+      "no",
+      "yes"
+    ],
+    [
+      "no",
+      "they aren't eating anything"
+    ],
+    [
+      "female",
+      "undecided",
+      "yes",
+      "male"
+    ],
+    [
+      "young",
+      "old"
+    ],
+    [
+      "no"
+    ],
+    [
+      "no"
+    ],
+    [
+      "giraffe"
+    ],
+    [
+      "zebra",
+      "giraffe"
+    ],
+    [
+      "giraffe"
+    ],
+    [
+      "no",
+      "mp"
+    ],
+    [
+      "no"
+    ],
+    [
+      "no"
+    ],
+    [
+      "no"
+    ],
+    [
+      "looking around",
+      "standing",
+      "looking off into distance"
+    ],
+    [
+      "no"
+    ],
+    [
+      "no"
+    ],
+    [
+      "2",
+      "4",
+      "1"
+    ],
+    [
+      "giraffes",
+      "giraffe"
+    ],
+    [
+      "giraffe"
+    ],
+    [
+      "no",
+      "yes"
+    ],
+    [
+      "2"
+    ],
+    [
+      "giraffes",
+      "giraffe"
+    ],
+    [
+      "no",
+      "yes"
+    ],
+    [
+      "animal"
+    ],
+    [
+      "50",
+      "300",
+      "29",
+      "100s",
+      "200",
+      "many",
+      "100",
+      "several"
+    ],
+    [
+      "50",
+      "all",
+      "54",
+      "531",
+      "lot",
+      "200",
+      "multiple",
+      "unanswerable",
+      "several",
+      "30"
+    ],
+    [
+      "giraffe patterned",
+      "spotted",
+      "dots",
+      "blocks",
+      "spots"
+    ],
+    [
+      "at trees",
+      "trees",
+      "left",
+      "over trees",
+      "ahead",
+      "right",
+      "to right"
+    ],
+    [
+      "yes"
+    ]
+  ],
+  "llmind_answers": [
+    "1",
+    "yes",
+    "no",
+    "male",
+    "young",
+    "yes",
+    "no",
+    "giraffe",
+    "giraffe",
+    "giraffe",
+    "yes",
+    "no",
+    "no",
+    "yes",
+    "standing",
+    "no",
+    "no",
+    "2",
+    "giraffes",
+    "giraffe",
+    "no",
+    "2",
+    "giraffe and elephant",
+    "yes",
+    "animal",
+    "1",
+    "10",
+    "striped",
+    "up",
+    "yes"
+  ],
+  "llmind_accuracy": 0.7333333333333333,
+  "uniform_answers": [
+    "2",
+    "yes",
+    "no",
+    "male",
+    "young",
+    "yes",
+    "no",
+    "giraffe",
+    "giraffe",
+    "giraffe",
+    "yes",
+    "no",
+    "no",
+    "yes",
+    "eating",
+    "yes",
+    "yes",
+    "2",
+    "giraffes",
+    "giraffe",
+    "no",
+    "2",
+    "giraffe and elephant",
+    "yes",
+    "animal",
+    "10",
+    "10",
+    "spotted",
+    "up",
+    "yes"
+  ],
+  "uniform_accuracy": 0.6666666666666666
+}

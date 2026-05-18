@@ -1,0 +1,38 @@
+{
+  "questions": [
+    "What brand of dogs are these?",
+    "What is keeping the dogs from running away?",
+    "Are all the dogs looking in the same direction?"
+  ],
+  "gt_answers": [
+    [
+      "spaniel",
+      "hounds",
+      "hound dogs",
+      "bengal",
+      "beagles",
+      "brand?",
+      "beagle"
+    ],
+    [
+      "fence",
+      "french",
+      "cage"
+    ],
+    [
+      "yes"
+    ]
+  ],
+  "llmind_answers": [
+    "beagle",
+    "fence",
+    "yes"
+  ],
+  "llmind_accuracy": 1.0,
+  "uniform_answers": [
+    "golden retriever",
+    "leashes",
+    "no"
+  ],
+  "uniform_accuracy": 0.0
+}

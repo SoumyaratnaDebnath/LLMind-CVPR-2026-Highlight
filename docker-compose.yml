@@ -1,0 +1,30 @@
+services:
+  llmind:
+    build:
+      context: .
+      args:
+        TORCH_VERSION: 2.5.1
+        TORCHVISION_VERSION: 0.20.1
+        PYTORCH_INDEX_URL: https://download.pytorch.org/whl/cpu
+    image: llmind:local
+    ports:
+      - "7860:7860"
+    environment:
+      GRADIO_SERVER_NAME: 0.0.0.0
+      GRADIO_SERVER_PORT: 7860
+      GRADIO_ANALYTICS_ENABLED: "False"
+      HF_HOME: /data/huggingface
+      TRANSFORMERS_CACHE: /data/huggingface/transformers
+      HUGGINGFACE_HUB_CACHE: /data/huggingface/hub
+      HF_HUB_DISABLE_PROGRESS_BARS: "1"
+      TOKENIZERS_PARALLELISM: "false"
+    volumes:
+      - ./logs:/app/logs
+      - ./example_data:/app/example_data:ro
+      - hf-cache:/data/huggingface
+    restart: unless-stopped
+    shm_size: "2gb"
+
+volumes:
+  hf-cache:
+    name: llmind_hf_cache

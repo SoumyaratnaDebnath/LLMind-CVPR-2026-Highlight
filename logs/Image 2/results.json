@@ -1,0 +1,247 @@
+{
+  "questions": [
+    "Are these on display?",
+    "Is that a teddy ruxpin?",
+    "What is the name of the toy on the top left?",
+    "What color is the bear?",
+    "What is the bear's hobby?",
+    "Does the teddy bear have an unusual name?",
+    "What type of hat does the bear have?",
+    "What kind of bear is on display?",
+    "How many bears are there?",
+    "Is this bear alive?",
+    "Where is the teddy bear?",
+    "What is holding the bear up?",
+    "What color is the teddy bear?",
+    "Can you see all four of the bear's paws?",
+    "What is written on the teddy bear's feet?",
+    "Is there a pink teddy?",
+    "Is the teddy bear smiling?",
+    "What kind of scene is this?",
+    "How many teddy bears?",
+    "Should you hug this animal?",
+    "Where is the picture taken?",
+    "Is this bear bigger than most teddy bears?",
+    "How big is teddy bear?",
+    "Can all of the body parts of this stuffed animal be seen?",
+    "Is the teddy bear new?",
+    "How big is the teddy bear?",
+    "What are the words behind the blue bear?",
+    "What is in front of the bear?"
+  ],
+  "gt_answers": [
+    [
+      "yes"
+    ],
+    [
+      "no",
+      "unknown",
+      "yes"
+    ],
+    [
+      "teddy bear",
+      "bear",
+      "teddy"
+    ],
+    [
+      "brown",
+      "tan",
+      "brown purple"
+    ],
+    [
+      "music",
+      "photography",
+      "camera",
+      "unsure"
+    ],
+    [
+      "no",
+      "yes"
+    ],
+    [
+      "no hat",
+      "none",
+      "small",
+      "feather"
+    ],
+    [
+      "teddy bear",
+      "stuffed bears",
+      "stuffed bear",
+      "teddy"
+    ],
+    [
+      "2",
+      "7",
+      "1",
+      "12"
+    ],
+    [
+      "no",
+      "yes"
+    ],
+    [
+      "on shelf",
+      "shelf",
+      "yes",
+      "front",
+      "table",
+      "on table",
+      "on display"
+    ],
+    [
+      "counterweight inside",
+      "wall",
+      "camera",
+      "shelf"
+    ],
+    [
+      "brown"
+    ],
+    [
+      "no",
+      "yes"
+    ],
+    [
+      "love",
+      "gund",
+      "nothing"
+    ],
+    [
+      "no"
+    ],
+    [
+      "yes"
+    ],
+    [
+      "decoration",
+      "shop",
+      "toy",
+      "store",
+      "indoor",
+      "display",
+      "store shelf",
+      "museum"
+    ],
+    [
+      "2",
+      "5"
+    ],
+    [
+      "no",
+      "yes"
+    ],
+    [
+      "inside",
+      "exhibition hall",
+      "indoors",
+      "gymnasium",
+      "gym",
+      "store",
+      "museum",
+      "toy store"
+    ],
+    [
+      "no"
+    ],
+    [
+      "medium sized",
+      "average",
+      "small",
+      "large",
+      "8 inches",
+      "moderate"
+    ],
+    [
+      "no",
+      "yes"
+    ],
+    [
+      "no",
+      "yes"
+    ],
+    [
+      "medium",
+      "less than foot",
+      "10 inches",
+      "small",
+      "not very",
+      "12 inches"
+    ],
+    [
+      "help",
+      "no blue bear",
+      "no words",
+      "none",
+      "not english",
+      "unknown",
+      "english"
+    ],
+    [
+      "sign",
+      "camera"
+    ]
+  ],
+  "llmind_answers": [
+    "yes",
+    "no",
+    "teddy bear",
+    "brown",
+    "sleeping",
+    "no",
+    "beanie",
+    "teddy bear",
+    "2",
+    "no",
+    "on bed",
+    "table",
+    "brown",
+    "no",
+    "nothing",
+    "no",
+    "yes",
+    "indoor",
+    "2",
+    "no",
+    "bedroom",
+    "yes",
+    "small",
+    "no",
+    "no",
+    "small",
+    "unanswerable",
+    "blanket"
+  ],
+  "llmind_accuracy": 0.7142857142857143,
+  "uniform_answers": [
+    "no",
+    "no",
+    "teddy bear",
+    "brown",
+    "reading",
+    "no",
+    "plaid",
+    "teddy bear",
+    "2",
+    "no",
+    "on chair",
+    "stuffed animal",
+    "brown",
+    "no",
+    "nothing",
+    "yes",
+    "yes",
+    "bedroom",
+    "2",
+    "no",
+    "bedroom",
+    "yes",
+    "small",
+    "no",
+    "no",
+    "small",
+    "i don t know",
+    "teddy bear"
+  ],
+  "uniform_accuracy": 0.6071428571428571
+}

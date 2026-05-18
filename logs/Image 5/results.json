@@ -1,0 +1,41 @@
+{
+  "questions": [
+    "Why is there a gap between the roof and wall?",
+    "Is it daylight in this picture?",
+    "Why is the cow laying down?"
+  ],
+  "gt_answers": [
+    [
+      "ventilation",
+      "yes",
+      "provide air",
+      "keep cow safe",
+      "to air out barn from stinky bovines",
+      "airflow",
+      "air",
+      "for air",
+      "to let sunlight in"
+    ],
+    [
+      "yes"
+    ],
+    [
+      "4",
+      "tired",
+      "resting",
+      "it's tired"
+    ]
+  ],
+  "llmind_answers": [
+    "gap between roof and wall is likely for ventilation",
+    "yes",
+    "resting"
+  ],
+  "llmind_accuracy": 1.0,
+  "uniform_answers": [
+    "insulation",
+    "no",
+    "tired"
+  ],
+  "uniform_accuracy": 0.3333333333333333
+}

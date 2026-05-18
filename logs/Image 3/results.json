@@ -1,0 +1,93 @@
+{
+  "questions": [
+    "Are the headlights illuminated?",
+    "What does the train say after the round logo?",
+    "What is the train riding on?",
+    "What city is this?",
+    "Is this an old train?",
+    "Is it raining?",
+    "Is the train moving?",
+    "Does the bus have one or two sections?",
+    "Are the words written on the vehicle written in English?",
+    "What color is the train?"
+  ],
+  "gt_answers": [
+    [
+      "no",
+      "yes"
+    ],
+    [
+      "metra",
+      "train",
+      "31"
+    ],
+    [
+      "tracks",
+      "monorail",
+      "rail",
+      "rails",
+      "track"
+    ],
+    [
+      "san francisco",
+      "chicago heights",
+      "chicago",
+      "boston",
+      "melbourne",
+      "usa",
+      "la",
+      "india"
+    ],
+    [
+      "no",
+      "yes"
+    ],
+    [
+      "no"
+    ],
+    [
+      "yes"
+    ],
+    [
+      "4",
+      "3",
+      "not bus",
+      "4 sections",
+      "2"
+    ],
+    [
+      "no",
+      "yes"
+    ],
+    [
+      "silver",
+      "gray"
+    ]
+  ],
+  "llmind_answers": [
+    "no",
+    "city",
+    "tracks",
+    "new york",
+    "yes",
+    "no",
+    "yes",
+    "2",
+    "yes",
+    "blue"
+  ],
+  "llmind_accuracy": 0.7,
+  "uniform_answers": [
+    "no",
+    "voyageur",
+    "tracks",
+    "rotterdam",
+    "no",
+    "no",
+    "no",
+    "2",
+    "yes",
+    "blue"
+  ],
+  "uniform_accuracy": 0.6
+}

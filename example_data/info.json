@@ -1,0 +1,793 @@
+[
+  {
+    "image_name": "Image 1.png",
+    "question": "How many birds are there?",
+    "answers": [
+      "0"
+    ]
+  },
+  {
+    "image_name": "Image 1.png",
+    "question": "Are these animals wild?",
+    "answers": [
+      "no",
+      "yes"
+    ]
+  },
+  {
+    "image_name": "Image 1.png",
+    "question": "Are the giraffes eating?",
+    "answers": [
+      "no",
+      "they aren't eating anything"
+    ]
+  },
+  {
+    "image_name": "Image 1.png",
+    "question": "Are the giraffes male or female?",
+    "answers": [
+      "female",
+      "undecided",
+      "yes",
+      "male"
+    ]
+  },
+  {
+    "image_name": "Image 1.png",
+    "question": "Is this a young or old animal?",
+    "answers": [
+      "young",
+      "old"
+    ]
+  },
+  {
+    "image_name": "Image 1.png",
+    "question": "Is this a man made exhibit?",
+    "answers": [
+      "no"
+    ]
+  },
+  {
+    "image_name": "Image 1.png",
+    "question": "Can these animals fly?",
+    "answers": [
+      "no"
+    ]
+  },
+  {
+    "image_name": "Image 1.png",
+    "question": "What is the animal?",
+    "answers": [
+      "giraffe"
+    ]
+  },
+  {
+    "image_name": "Image 1.png",
+    "question": "What animal is in the picture?",
+    "answers": [
+      "zebra",
+      "giraffe"
+    ]
+  },
+  {
+    "image_name": "Image 1.png",
+    "question": "What kind of animal is this?",
+    "answers": [
+      "giraffe"
+    ]
+  },
+  {
+    "image_name": "Image 1.png",
+    "question": "Is one giraffes head out of view?",
+    "answers": [
+      "no",
+      "mp"
+    ]
+  },
+  {
+    "image_name": "Image 1.png",
+    "question": "Is there water in this photo?",
+    "answers": [
+      "no"
+    ]
+  },
+  {
+    "image_name": "Image 1.png",
+    "question": "Are any of the giraffe's looking at the camera?",
+    "answers": [
+      "no"
+    ]
+  },
+  {
+    "image_name": "Image 1.png",
+    "question": "Does it have tusks?",
+    "answers": [
+      "no"
+    ]
+  },
+  {
+    "image_name": "Image 1.png",
+    "question": "What are these animals doing?",
+    "answers": [
+      "looking around",
+      "standing",
+      "looking off into distance"
+    ]
+  },
+  {
+    "image_name": "Image 1.png",
+    "question": "Are there two different types of animal?",
+    "answers": [
+      "no"
+    ]
+  },
+  {
+    "image_name": "Image 1.png",
+    "question": "Is this a zoo?",
+    "answers": [
+      "no"
+    ]
+  },
+  {
+    "image_name": "Image 1.png",
+    "question": "How many eyes do you see?",
+    "answers": [
+      "2",
+      "4",
+      "1"
+    ]
+  },
+  {
+    "image_name": "Image 1.png",
+    "question": "What kind of animals are in the dry grass?",
+    "answers": [
+      "giraffes",
+      "giraffe"
+    ]
+  },
+  {
+    "image_name": "Image 1.png",
+    "question": "What animal is this?",
+    "answers": [
+      "giraffe"
+    ]
+  },
+  {
+    "image_name": "Image 1.png",
+    "question": "Is the giraffe carrying any passengers?",
+    "answers": [
+      "no",
+      "yes"
+    ]
+  },
+  {
+    "image_name": "Image 1.png",
+    "question": "How many giraffe's are in the shot?",
+    "answers": [
+      "2"
+    ]
+  },
+  {
+    "image_name": "Image 1.png",
+    "question": "What two animals are photoshopped together?",
+    "answers": [
+      "giraffes",
+      "giraffe"
+    ]
+  },
+  {
+    "image_name": "Image 1.png",
+    "question": "Is the animal in an enclosure?",
+    "answers": [
+      "no",
+      "yes"
+    ]
+  },
+  {
+    "image_name": "Image 1.png",
+    "question": "Animal, vegetable or mineral?",
+    "answers": [
+      "animal"
+    ]
+  },
+  {
+    "image_name": "Image 1.png",
+    "question": "How many spots are visible on the animal?",
+    "answers": [
+      "50",
+      "300",
+      "29",
+      "100s",
+      "200",
+      "many",
+      "100",
+      "several"
+    ]
+  },
+  {
+    "image_name": "Image 1.png",
+    "question": "How many spots on the giraffe are shown?",
+    "answers": [
+      "50",
+      "all",
+      "54",
+      "531",
+      "lot",
+      "200",
+      "multiple",
+      "unanswerable",
+      "several",
+      "30"
+    ]
+  },
+  {
+    "image_name": "Image 1.png",
+    "question": "What design does the giraffe have?",
+    "answers": [
+      "giraffe patterned",
+      "spotted",
+      "dots",
+      "blocks",
+      "spots"
+    ]
+  },
+  {
+    "image_name": "Image 1.png",
+    "question": "Where is the giraffe looking?",
+    "answers": [
+      "at trees",
+      "trees",
+      "left",
+      "over trees",
+      "ahead",
+      "right",
+      "to right"
+    ]
+  },
+  {
+    "image_name": "Image 1.png",
+    "question": "Is the giraffe standing up?",
+    "answers": [
+      "yes"
+    ]
+  },
+  {
+    "image_name": "Image 2.png",
+    "question": "Are these on display?",
+    "answers": [
+      "yes"
+    ]
+  },
+  {
+    "image_name": "Image 2.png",
+    "question": "Is that a teddy ruxpin?",
+    "answers": [
+      "no",
+      "unknown",
+      "yes"
+    ]
+  },
+  {
+    "image_name": "Image 2.png",
+    "question": "What is the name of the toy on the top left?",
+    "answers": [
+      "teddy bear",
+      "bear",
+      "teddy"
+    ]
+  },
+  {
+    "image_name": "Image 2.png",
+    "question": "What color is the bear?",
+    "answers": [
+      "brown",
+      "tan",
+      "brown purple"
+    ]
+  },
+  {
+    "image_name": "Image 2.png",
+    "question": "What is the bear's hobby?",
+    "answers": [
+      "music",
+      "photography",
+      "camera",
+      "unsure"
+    ]
+  },
+  {
+    "image_name": "Image 2.png",
+    "question": "Does the teddy bear have an unusual name?",
+    "answers": [
+      "no",
+      "yes"
+    ]
+  },
+  {
+    "image_name": "Image 2.png",
+    "question": "What type of hat does the bear have?",
+    "answers": [
+      "no hat",
+      "none",
+      "small",
+      "feather"
+    ]
+  },
+  {
+    "image_name": "Image 2.png",
+    "question": "What kind of bear is on display?",
+    "answers": [
+      "teddy bear",
+      "stuffed bears",
+      "stuffed bear",
+      "teddy"
+    ]
+  },
+  {
+    "image_name": "Image 2.png",
+    "question": "How many bears are there?",
+    "answers": [
+      "2",
+      "7",
+      "1",
+      "12"
+    ]
+  },
+  {
+    "image_name": "Image 2.png",
+    "question": "Is this bear alive?",
+    "answers": [
+      "no",
+      "yes"
+    ]
+  },
+  {
+    "image_name": "Image 2.png",
+    "question": "Where is the teddy bear?",
+    "answers": [
+      "on shelf",
+      "shelf",
+      "yes",
+      "front",
+      "table",
+      "on table",
+      "on display"
+    ]
+  },
+  {
+    "image_name": "Image 2.png",
+    "question": "What is holding the bear up?",
+    "answers": [
+      "counterweight inside",
+      "wall",
+      "camera",
+      "shelf"
+    ]
+  },
+  {
+    "image_name": "Image 2.png",
+    "question": "What color is the teddy bear?",
+    "answers": [
+      "brown"
+    ]
+  },
+  {
+    "image_name": "Image 2.png",
+    "question": "Can you see all four of the bear's paws?",
+    "answers": [
+      "no",
+      "yes"
+    ]
+  },
+  {
+    "image_name": "Image 2.png",
+    "question": "What is written on the teddy bear's feet?",
+    "answers": [
+      "love",
+      "gund",
+      "nothing"
+    ]
+  },
+  {
+    "image_name": "Image 2.png",
+    "question": "Is there a pink teddy?",
+    "answers": [
+      "no"
+    ]
+  },
+  {
+    "image_name": "Image 2.png",
+    "question": "Is the teddy bear smiling?",
+    "answers": [
+      "yes"
+    ]
+  },
+  {
+    "image_name": "Image 2.png",
+    "question": "What kind of scene is this?",
+    "answers": [
+      "decoration",
+      "shop",
+      "toy",
+      "store",
+      "indoor",
+      "display",
+      "store shelf",
+      "museum"
+    ]
+  },
+  {
+    "image_name": "Image 2.png",
+    "question": "How many teddy bears?",
+    "answers": [
+      "2",
+      "5"
+    ]
+  },
+  {
+    "image_name": "Image 2.png",
+    "question": "Should you hug this animal?",
+    "answers": [
+      "no",
+      "yes"
+    ]
+  },
+  {
+    "image_name": "Image 2.png",
+    "question": "Where is the picture taken?",
+    "answers": [
+      "inside",
+      "exhibition hall",
+      "indoors",
+      "gymnasium",
+      "gym",
+      "store",
+      "museum",
+      "toy store"
+    ]
+  },
+  {
+    "image_name": "Image 2.png",
+    "question": "Is this bear bigger than most teddy bears?",
+    "answers": [
+      "no"
+    ]
+  },
+  {
+    "image_name": "Image 2.png",
+    "question": "How big is teddy bear?",
+    "answers": [
+      "medium sized",
+      "average",
+      "small",
+      "large",
+      "8 inches",
+      "moderate"
+    ]
+  },
+  {
+    "image_name": "Image 2.png",
+    "question": "Can all of the body parts of this stuffed animal be seen?",
+    "answers": [
+      "no",
+      "yes"
+    ]
+  },
+  {
+    "image_name": "Image 2.png",
+    "question": "Is the teddy bear new?",
+    "answers": [
+      "no",
+      "yes"
+    ]
+  },
+  {
+    "image_name": "Image 2.png",
+    "question": "How big is the teddy bear?",
+    "answers": [
+      "medium",
+      "less than foot",
+      "10 inches",
+      "small",
+      "not very",
+      "12 inches"
+    ]
+  },
+  {
+    "image_name": "Image 2.png",
+    "question": "What are the words behind the blue bear?",
+    "answers": [
+      "help",
+      "no blue bear",
+      "no words",
+      "none",
+      "not english",
+      "unknown",
+      "english"
+    ]
+  },
+  {
+    "image_name": "Image 2.png",
+    "question": "What is in front of the bear?",
+    "answers": [
+      "sign",
+      "camera"
+    ]
+  },
+  {
+    "image_name": "Image 3.png",
+    "question": "Are the headlights illuminated?",
+    "answers": [
+      "no",
+      "yes"
+    ]
+  },
+  {
+    "image_name": "Image 3.png",
+    "question": "What does the train say after the round logo?",
+    "answers": [
+      "metra",
+      "train",
+      "31"
+    ]
+  },
+  {
+    "image_name": "Image 3.png",
+    "question": "What is the train riding on?",
+    "answers": [
+      "tracks",
+      "monorail",
+      "rail",
+      "rails",
+      "track"
+    ]
+  },
+  {
+    "image_name": "Image 3.png",
+    "question": "What city is this?",
+    "answers": [
+      "san francisco",
+      "chicago heights",
+      "chicago",
+      "boston",
+      "melbourne",
+      "usa",
+      "la",
+      "india"
+    ]
+  },
+  {
+    "image_name": "Image 3.png",
+    "question": "Is this an old train?",
+    "answers": [
+      "no",
+      "yes"
+    ]
+  },
+  {
+    "image_name": "Image 3.png",
+    "question": "Is it raining?",
+    "answers": [
+      "no"
+    ]
+  },
+  {
+    "image_name": "Image 3.png",
+    "question": "Is the train moving?",
+    "answers": [
+      "yes"
+    ]
+  },
+  {
+    "image_name": "Image 3.png",
+    "question": "Does the bus have one or two sections?",
+    "answers": [
+      "4",
+      "3",
+      "not bus",
+      "4 sections",
+      "2"
+    ]
+  },
+  {
+    "image_name": "Image 3.png",
+    "question": "Are the words written on the vehicle written in English?",
+    "answers": [
+      "no",
+      "yes"
+    ]
+  },
+  {
+    "image_name": "Image 3.png",
+    "question": "What color is the train?",
+    "answers": [
+      "silver",
+      "gray"
+    ]
+  },
+  {
+    "image_name": "Image 4.png",
+    "question": "How many boys sitting?",
+    "answers": [
+      "2",
+      "4",
+      "3"
+    ]
+  },
+  {
+    "image_name": "Image 4.png",
+    "question": "What are the people looking at?",
+    "answers": [
+      "skater",
+      "guy on skateboard",
+      "boy on skateboard",
+      "skateboarder"
+    ]
+  },
+  {
+    "image_name": "Image 4.png",
+    "question": "What is standing on the right?",
+    "answers": [
+      "light",
+      "street light",
+      "man",
+      "pole",
+      "light pole",
+      "light post",
+      "lamp"
+    ]
+  },
+  {
+    "image_name": "Image 4.png",
+    "question": "How many cows are there?",
+    "answers": [
+      "0"
+    ]
+  },
+  {
+    "image_name": "Image 4.png",
+    "question": "Are the people going to work?",
+    "answers": [
+      "no"
+    ]
+  },
+  {
+    "image_name": "Image 4.png",
+    "question": "Is the skateboarder doing a trick?",
+    "answers": [
+      "no",
+      "yes"
+    ]
+  },
+  {
+    "image_name": "Image 4.png",
+    "question": "What is the man wearing black clothes doing?",
+    "answers": [
+      "holding skateboard",
+      "watching",
+      "standing",
+      "looking at skateboarder"
+    ]
+  },
+  {
+    "image_name": "Image 4.png",
+    "question": "Is it raining?",
+    "answers": [
+      "no",
+      "yes"
+    ]
+  },
+  {
+    "image_name": "Image 4.png",
+    "question": "Is everyone standing?",
+    "answers": [
+      "no",
+      "yes"
+    ]
+  },
+  {
+    "image_name": "Image 4.png",
+    "question": "Is the child pointing?",
+    "answers": [
+      "no",
+      "yes"
+    ]
+  },
+  {
+    "image_name": "Image 5.png",
+    "question": "Why is there a gap between the roof and wall?",
+    "answers": [
+      "ventilation",
+      "yes",
+      "provide air",
+      "keep cow safe",
+      "to air out barn from stinky bovines",
+      "airflow",
+      "air",
+      "for air",
+      "to let sunlight in"
+    ]
+  },
+  {
+    "image_name": "Image 5.png",
+    "question": "Is it daylight in this picture?",
+    "answers": [
+      "yes"
+    ]
+  },
+  {
+    "image_name": "Image 5.png",
+    "question": "Why is the cow laying down?",
+    "answers": [
+      "4",
+      "tired",
+      "resting",
+      "it's tired"
+    ]
+  },
+  {
+    "image_name": "Image 6.png",
+    "question": "What brand of dogs are these?",
+    "answers": [
+      "spaniel",
+      "hounds",
+      "hound dogs",
+      "bengal",
+      "beagles",
+      "brand?",
+      "beagle"
+    ]
+  },
+  {
+    "image_name": "Image 6.png",
+    "question": "What is keeping the dogs from running away?",
+    "answers": [
+      "fence",
+      "french",
+      "cage"
+    ]
+  },
+  {
+    "image_name": "Image 6.png",
+    "question": "Are all the dogs looking in the same direction?",
+    "answers": [
+      "yes"
+    ]
+  },
+  {
+    "image_name": "Image 7.png",
+    "question": "What is the woman in the room doing?",
+    "answers": [
+      "talking out window",
+      "talking",
+      "looking out window",
+      "cleaning",
+      "talking to someone outside of window",
+      "talking to someone"
+    ]
+  },
+  {
+    "image_name": "Image 7.png",
+    "question": "How many yellow vases?",
+    "answers": [
+      "2",
+      "1"
+    ]
+  },
+  {
+    "image_name": "Image 7.png",
+    "question": "What color is the floor?",
+    "answers": [
+      "brown",
+      "wood colored"
+    ]
+  },
+  {
+    "image_name": "Image 7.png",
+    "question": "What color is the flower?",
+    "answers": [
+      "red",
+      "pink"
+    ]
+  }
+]

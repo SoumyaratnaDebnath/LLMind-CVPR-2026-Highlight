@@ -1,0 +1,44 @@
+{
+  "questions": [
+    "What is the woman in the room doing?",
+    "How many yellow vases?",
+    "What color is the floor?",
+    "What color is the flower?"
+  ],
+  "gt_answers": [
+    [
+      "talking out window",
+      "talking",
+      "looking out window",
+      "cleaning",
+      "talking to someone outside of window",
+      "talking to someone"
+    ],
+    [
+      "2",
+      "1"
+    ],
+    [
+      "brown",
+      "wood colored"
+    ],
+    [
+      "red",
+      "pink"
+    ]
+  ],
+  "llmind_answers": [
+    "sitting",
+    "0",
+    "brown",
+    "red"
+  ],
+  "llmind_accuracy": 0.5,
+  "uniform_answers": [
+    "watching tv",
+    "0",
+    "red",
+    "yellow"
+  ],
+  "uniform_accuracy": 0.0
+}
