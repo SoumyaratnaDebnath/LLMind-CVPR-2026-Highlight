@@ -455,13 +455,14 @@ body .gradio-container {
 
 #top-row {
     min-height: 0 !important;
-    max-height: 380px !important;
+    max-height: 420px !important;
     align-items: flex-start !important;
     margin-bottom: 8px !important;
 }
 
 #top-row > div {
     min-height: 0 !important;
+    min-width: 0 !important;
 }
 
 #sample-title {
@@ -486,6 +487,18 @@ body .gradio-container {
 
 #sample-grid-row > div {
     min-width: 180px !important;
+}
+
+#qa-table table {
+    table-layout: fixed !important;
+    width: 100% !important;
+}
+
+#qa-table th,
+#qa-table td {
+    white-space: normal !important;
+    overflow-wrap: anywhere !important;
+    word-break: break-word !important;
 }
 
 #run-controls-right {
@@ -563,6 +576,13 @@ body .gradio-container {
     pointer-events: none;
 }
 
+@media (max-width: 1100px) {
+    #top-row {
+        flex-wrap: wrap !important;
+        max-height: none !important;
+    }
+}
+
 @keyframes run-status-pulse {
     0%, 100% { opacity: 1; transform: scale(1); }
     50% { opacity: 0.45; transform: scale(0.8); }
@@ -580,13 +600,13 @@ with gr.Blocks(title="LLMind Demo", fill_width=True, css=APP_CSS) as demo:
 
     sample_state = gr.State(default_sample_state)
 
-    with gr.Row(variant="compact", elem_id="top-row", max_height=380):
+    with gr.Row(variant="compact", elem_id="top-row", max_height=420):
         image_input = gr.Image(
             type="filepath",
             label="Input Image",
             value=default_image,
             buttons=[],
-            height=360,
+            height=340,
             scale=1,
         )
         qa_input = gr.Dataframe(
@@ -598,8 +618,9 @@ with gr.Blocks(title="LLMind Demo", fill_width=True, css=APP_CSS) as demo:
             value=default_rows,
             label="Questions And Ground Truth Answers",
             wrap=True,
-            max_height=360,
+            max_height=340,
             scale=2,
+            elem_id="qa-table",
         )
 
     gr.Markdown("### Sample Images", elem_id="sample-title")
