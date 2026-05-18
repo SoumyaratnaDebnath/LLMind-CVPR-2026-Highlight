@@ -1,6 +1,4 @@
-# LLMind Docker Project
-
-LLMind is a Gradio app and Python pipeline for adaptive image sampling with a vision-language evaluation loop. This repository is packaged to be shared and run through Docker without requiring the original local `conda` environment.
+# LLMind : Bio-inspired Training-free Adaptive Visual Representations for Vision-Language Models
 
 The app lets you:
 
@@ -60,24 +58,6 @@ That means the first run is slower, but later runs reuse the downloaded weights.
 - [run.sh](/home/soumyara004/soumyaratna/Shareables/LLMind-Docker/run.sh): sample CLI run
 - [example_data](/home/soumyara004/soumyaratna/Shareables/LLMind-Docker/example_data): bundled sample inputs
 - [logs](/home/soumyara004/soumyaratna/Shareables/LLMind-Docker/logs): sample or generated outputs
-
-## Recommended Sharing Format
-
-Share the whole project directory or a Git repository containing:
-
-- source code
-- `Dockerfile`
-- `docker-compose.yml`
-- `docker-compose.gpu.yml`
-- `requirements.txt`
-- `README.md`
-- `example_data/` if you want the sample workflow to work immediately
-
-You usually do not need to share:
-
-- your old `conda` environment
-- local Python virtual environments
-- cached Hugging Face model files
 
 ## Running The UI
 
