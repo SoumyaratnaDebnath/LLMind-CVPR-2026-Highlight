@@ -169,4 +169,4 @@ If model download fails on first run:
 
 ## Docker Details
 
-More detailed Docker-specific notes are in [DOCKER.md](/home/soumyara004/soumyaratna/Shareables/LLMind-Docker/DOCKER.md).
+More detailed Docker-specific notes are in [DOCKER.md](https://github.com/SoumyaratnaDebnath/LLMind-CVPR-2026-Highlight/blob/main/DOCKER.md).
